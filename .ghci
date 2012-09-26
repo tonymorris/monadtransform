@@ -1,5 +1,5 @@
 :set -isrc
-:l src/M.hs
+:l src/Control/Monad/Transform/Class.hs
 :m + Test.QuickCheck
 :set prompt ">> "
 :set -Wall
