@@ -22,7 +22,8 @@ Flag                small_base
 Library
   Build-Depends:
                       base < 5 && >= 3
-                    , transformers >= 0.3.0.0
+                    , transformers >= 0.2.2.0
+                    , semigroupoids >= 3.0.0.0
 
   GHC-Options:
                     -Wall
